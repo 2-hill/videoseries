@@ -1,16 +1,16 @@
 # videoseries for customer facing teams
 
-# Videos are currently being recorder/edited. Available June 26th at 1pm CEST
+# Browse the files and click the download button to get the video
 
 
-## Incident Management
+## Incident Management (Available)
 
 <img src="./IncidentManagement/im.png" alt="incident"/>
 
-## API latest endpoints
+## API latest endpoints (TBD)
 
 <img src="./ApiLatestEndpoints/api.png" alt="api"/>
 
-## Hubspot training
+## Hubspot training (TBD)
 
 <img src="./HubspotTraining/hs.png" alt="hubspot"/>
