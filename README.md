@@ -1,6 +1,6 @@
 # videoseries for customer facing teams
 
-# Browse the files and click the download button to get the video
+# Browse the files and click "view raw" to get the video
 
 
 ## Incident Management (Available)
